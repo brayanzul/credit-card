@@ -26,7 +26,7 @@ Visa.
 On the back appears the signature of the owner 
 of the Trajeta and CCV.
 
-#Programming languages
+# Programming languages
 -HTML
 -javascript
 -CSS
